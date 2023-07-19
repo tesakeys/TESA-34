@@ -4,7 +4,7 @@ This is a repository for the TESA34, a custom 34 key keyboard project. The keybo
 ## Features
 
 - Compact 34 key layout
-- Seeeduino RP2040 microcontroller for programmability
+- Seeeduino RP2040/BLE (wireless) microcontroller
 - OLED display and rotary encoder for added functionality
 - Supports both Cherry MX and Kailh Choc switches
 
